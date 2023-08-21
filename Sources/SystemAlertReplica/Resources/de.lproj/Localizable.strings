@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  
+
+  Created by Quentin Fasquel on 01/08/2023.
+  
+*/
+"alert_notification_title" = "„%@“ möchte dir Mitteilungen senden";
+"alert_notification_message" = "Mitteilungen können Hinweise, Töne und Symbolkennzeichen sein.
+Sie können in den Einstellungen konfiguriert werden.";
+"alert_notification_action_primary" = "Erlauben";
+"alert_notification_action_secondary" = "Nicht erlauben";

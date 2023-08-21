@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  
+
+  Created by Quentin Fasquel on 01/08/2023.
+  
+*/
+"alert_notification_title" = "%@ quiere enviarte notificaciones";
+"alert_notification_message" = "Las notificaciones pueden incluir alertas, sonidos y contadores, los cuales se pueden establecer en Configuración.";
+"alert_notification_action_primary" = "Permitir";
+"alert_notification_action_secondary" = "No permitir";

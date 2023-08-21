@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  
+
+  Created by Quentin Fasquel on 01/08/2023.
+  
+*/
+"alert_notification_title" = "Autorisez-vous « %@ » à vous envoyer des notifications ?";
+"alert_notification_message" = "Les notifications peuvent inclure des alertes, des sons et des pastilles d'icônes. Vous pouvez les configurer dans Réglages.";
+"alert_notification_action_primary" = "Autoriser";
+"alert_notification_action_secondary" = "Refuser";
